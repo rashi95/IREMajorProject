@@ -1,8 +1,6 @@
 # IREMajorProject
 Problem Statement : Assign a category to given research paper from a list of predefined categories as mentioned in 2012 ACM computing system.
 
-Dataset Used : Scraped summary of wikiepedia article of each leaf node category (Total: 1636 categories)
-
 For running LDA approach:
 1. Go to the folder where code_lda.py is present. 
 2. Run the following commands:
